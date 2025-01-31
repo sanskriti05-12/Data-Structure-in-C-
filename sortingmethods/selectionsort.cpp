@@ -51,3 +51,5 @@ int main()
 
 
 // Spcce Complecity ---> yadi code me koi
+
+// order of n square
