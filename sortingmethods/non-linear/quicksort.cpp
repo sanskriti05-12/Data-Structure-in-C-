@@ -52,6 +52,6 @@ int main()
     cout<<"\n after quick sort\n";
     for(int i=0;i<s;i++)
     {
-        cout<<arr[i]<<"\t";
+        // cout<<arr[i]<<"\t";
 }
 }
