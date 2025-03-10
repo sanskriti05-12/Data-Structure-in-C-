@@ -6,7 +6,7 @@ class top
 public:
   void SelectionSort(int arr[] , int s)
   {
-      for(int i=0 ; i<5 ; i++)
+      for(int i=0 ; i<s; i++)
       {
         int chotu = i;
         for(int j=i+1 ; j<s ; j++)

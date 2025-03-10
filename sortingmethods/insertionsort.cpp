@@ -14,7 +14,7 @@ class top
                chotu--;
             }
         }
-    };
+    }
 };
 int main(){
 top p;
