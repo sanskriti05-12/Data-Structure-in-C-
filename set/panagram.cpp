@@ -8,7 +8,7 @@ int panagram(string &s)
 }
 
 int main(){
-    string s="quick brown fox jumps over the lazy dog";
+    // string s="quick brown fox jumps over the lazy dog";
     if(panagram(s))
     {
         cout<<"it is panagram";
