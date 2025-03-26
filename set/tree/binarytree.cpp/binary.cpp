@@ -20,6 +20,7 @@ int main()
     root->r=new node(30);
     cout<<root->data<<"\n";
      cout<<root->l->data<<"\n";
-      cout<<root->r->data<<"\n";
+      cout<<root->r->data<<"\n";//preorder
+      //static coding
 
 }
